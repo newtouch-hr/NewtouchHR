@@ -588,7 +588,7 @@ function deleteAttachBackHand(attachName,attachId,attrchIndex) {
     <td nowrap class="TableData"> 出席人员（外部）：</td>
     <td class="TableData" colspan="3">
       <textarea name="mAttendeeOut" id="mAttendeeOut" class="BigInput"  cols="45" rows="2"></textarea>
-      &nbsp;&nbsp;&nbsp;<input type="button" value="会议室管理制度" class="BigButtonC" onClick="window.open('meetingrule.jsp','','height=300,width=492,status=1,toolbar=no,menubar=no,location=no,scrollbars=yes,top=100,left=200,resizable=yes');">
+      &nbsp;&nbsp;&nbsp;<input type="button" value="会议室管理制度" class="BigButtonC" onClick="window.open('/newtouchHR/subsys/oa/meeting/apply/meetingrule.jsp','','height=300,width=492,status=1,toolbar=no,menubar=no,location=no,scrollbars=yes,top=100,left=200,resizable=yes');">
     </td>
   </tr>
   <tr>
@@ -807,6 +807,5 @@ function deleteAttachBackHand(attachName,attachId,attrchIndex) {
   <input id="btnFormFile" name="btnFormFile" type="submit" style="display:none;"></input>
 </form>
   <iframe widht="0" height="0" name="commintFrame" id="commintFrame"></iframe> 
-
 </body>
 </html>

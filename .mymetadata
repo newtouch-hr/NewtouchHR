@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="yh"
+  name="newtouchHR"
   id="myeclipse.1378898439298"
-  context-root="/yh"
+  context-root="/newtouchHR"
   j2ee-spec="5.0"
-  archive="yh.war">
+  archive="newtouchHR.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
